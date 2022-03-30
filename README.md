@@ -1,5 +1,7 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 # Hi there 👋
-<br />
 
 ### 👦🏽 About
 
@@ -24,8 +26,12 @@ Computer Engineering Student | UFOP
 ### :thought_balloon:	 Other Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height = 50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height = 50 />
+
+<br>
           
+# :space_invader: GitHub Stats
           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDelfim&show_icons=true&theme=radical)
           
           
           

@@ -31,7 +31,9 @@ Computer Engineering Student | UFOP
           
 # :space_invader: GitHub Stats
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDelfim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDelfim&show_icons=true&theme=dark)
+
+
           
           
           

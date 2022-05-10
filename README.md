@@ -9,6 +9,10 @@ Computer Engineering Student | UFOP
 
 <br />
 
+### 🧪 Current Project 
+QR LEITOS - UFOP - Universidade Federal de Ouro Preto
+
+<br />
 
 ### 🌱 I’m currently learning
 

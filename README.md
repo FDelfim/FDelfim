@@ -9,11 +9,6 @@ Computer Engineering Student | UFOP
 
 <br />
 
-### 🧪 Current Project 
-QR LEITOS - UFOP - Universidade Federal de Ouro Preto
-
-<br />
-
 ### 🌱 I’m currently learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 50 />

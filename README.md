@@ -29,13 +29,3 @@ Computer Engineering Student | UFOP
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height = 50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height = 50 />
 
-<br>
-          
-# :space_invader: GitHub Stats
-          
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDelfim&show_icons=true&theme=dark)
-
-
-          
-          
-          

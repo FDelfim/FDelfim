@@ -1,31 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
-# Hi there 👋
-
-### 👦🏽 About
-
-Computer Engineering Student | UFOP
-
-<br />
-
-### 🌱 I’m currently learning
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height = 50 />
-           
-<br />
-           
-### 🚀 Programming Skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height = 50/> 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height = 50/>       
-
-          
-<br /> 
- 
-       
-### :thought_balloon:	 Other Skills
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height = 50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height = 50 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height = 50 />
-
+<h3>👋 Hi there</h3>
+I'm Felipe, computer engineering student at UFOP campus ICEA and intern IT at Sicoob Credimepi.
+<h2></h2>
+<h3>🌱 I’m currently learning</h3>
+<img src="https://skillicons.dev/icons?i=react,vite,dotnet,nodejs,typescript,cs" alt="skills logos" />
+<h2></h2>
+<h3>⚙️ Languages | Frameworks | Tools</h3>
+<img src="https://skillicons.dev/icons?i=github,laravel,html,css,js,php,bootstrap,java,c,py,mysql,vscode,ai,ps" alt="skills logos" />

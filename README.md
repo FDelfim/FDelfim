@@ -1,9 +1,22 @@
-<h3>👋 Hi there</h3>
-I'm Felipe, computer engineering student at UFOP campus ICEA and Fullstack developer at Sicoob Credimepi.
-<h2></h2>
-<h3>🌱 I’m currently learning</h3>
-<img src="https://skillicons.dev/icons?i=react,next,firebase,vite,dotnet,nodejs,typescript,cs" alt="skills logos" />
-<h2></h2>
-<h3>⚙️ Languages | Frameworks | Tools</h3>
-<img src="https://skillicons.dev/icons?i=github,laravel,html,css,js,php,jquery,bootstrap" alt="skills logos" />
-<img src="https://skillicons.dev/icons?i=java,c,py,mysql,vscode,ai,ps" alt="skills logos" />
+👋 Hi there
+===========
+
+### 👦🏻 I'm Felipe and I love Technology
+📖 Graduating in Computer Engineering at [UFOP](https://www.ufop.br) campus ICEA  
+🛠️ Currently working as a Full Stack developer at [Sicoob Credimepi](https://www.sicoob.com.br/web/sicoobcredimepi) with Laravel and MySQL   
+🌐 **English Level**: 🦉 [Duolingo](https://pt.duolingo.com/profile/FDelfim) 💎 Diamond League (hahaha) 
+
+### 🌱 I’m currently learning
+
+![skills logos](https://skillicons.dev/icons?i=react,next,firebase,nodejs,typescript)
+
+### ⚙️ Languages | Frameworks | Tools
+
+![skills logos](https://skillicons.dev/icons?i=github,laravel,html,css,js,php,jquery,bootstrap) 
+
+![skills logos](https://skillicons.dev/icons?i=java,c,py,mysql,vscode,ai,ps)
+
+### 📫 Contact me
+
+:email: felipe.delfim@hotmail.com  
+🟦 [Linkedin](https://www.linkedin.com/in/felipe-delfim-machado)

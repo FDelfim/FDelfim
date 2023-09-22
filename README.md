@@ -12,9 +12,9 @@
 
 ### ⚙️ Languages | Frameworks | Tools
 
-![skills logos](https://skillicons.dev/icons?i=github,laravel,html,css,js,php,jquery,bootstrap) 
+![skills logos](https://skillicons.dev/icons?i=laravel,html,css,js,php,jquery,bootstrap) 
 
-![skills logos](https://skillicons.dev/icons?i=java,c,py,mysql,vscode,ai,ps)
+![skills logos](https://skillicons.dev/icons?i=mysql,vscode,java,c,py,ai,ps)
 
 ### 📫 Contact me
 

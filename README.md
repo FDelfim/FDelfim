@@ -3,8 +3,8 @@
 
 ### 👦🏻 I'm Felipe and I love Technology
 📖 Graduating in Computer Engineering at [UFOP](https://www.ufop.br) campus ICEA  
-🛠️ Currently working as a Full Stack developer at [Sicoob Credimepi](https://www.sicoob.com.br/web/sicoobcredimepi) with Laravel and MySQL   
-🌐 **English Level**: 🦉 [Duolingo](https://pt.duolingo.com/profile/FDelfim) 💎 Diamond League (hahaha) 
+🛠️ Currently working as a Full Stack developer at [Econodata](www.econodata.com.br) with Vue.js and Node.js   
+🌐 **English Level**: 🦉 [Duolingo](https://pt.duolingo.com/profile/FDelfim)
 
 ### 🌱 I’m currently learning
 

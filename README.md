@@ -2,15 +2,19 @@
 ===========
 
 ### 👦🏻 I'm Felipe and I love Technology
-📖 Graduating in Computer Engineering at [UFOP](https://www.ufop.br) campus ICEA  
-🛠️ Currently working as a Full Stack developer at [Econodata](https://www.econodata.com.br) with Vue.js and Node.js   
-🌐 **English Level**: 🦉 [Duolingo](https://pt.duolingo.com/profile/FDelfim)
+🎓 Computer Engineer   
+💼 Full Stack developer at [Econodata](https://www.econodata.com.br) with Vue.js and Node.js   
+🌐 **English Level**: B1 
 
-### 🌱 I’m currently learning
+### 📚 Hobbies 
 
-![skills logos](https://skillicons.dev/icons?i=react,next,firebase,nodejs,typescript)
+🦉 [Duolingo](https://pt.duolingo.com/profile/FDelfim)   
+📰 Know about the latest technologies   
+🧪 Learn new things related to programming
 
-### ⚙️ Languages | Frameworks | Tools
+### ⚙️ Languages | Frameworks | Tools  
+
+![skills logos](https://skillicons.dev/icons?i=react,next,firebase,nodejs,typescript,tailwind,vue)
 
 ![skills logos](https://skillicons.dev/icons?i=laravel,html,css,js,php,jquery,bootstrap) 
 
